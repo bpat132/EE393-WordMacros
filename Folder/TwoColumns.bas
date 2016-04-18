@@ -1,3 +1,7 @@
+' TwoColumn Macro by Bryce Patel
+' Used to format Microsoft Word documents to fit IEEE formatting guidelines. 
+'
+
 Sub Macro1()
 '
 ' Macro1 Macro
